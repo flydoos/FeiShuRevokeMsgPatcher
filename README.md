@@ -37,9 +37,9 @@
 
 ## 🔗下载地址
 
-**下载地址：[⚡️最新版飞书防撤回补丁下载](https://github.com/flydoos/FeiShuRevokeMsgPatcher/releases/latest) | [📖飞书安装包历史版本下载](https://www.wuleba.com/?p=2627)**
+**下载地址：[⚡️最新版飞书消息防撤回补丁下载](https://github.com/flydoos/FeiShuRevokeMsgPatcher/releases/latest) | [📖飞书安装包历史版本下载](https://www.wuleba.com/?p=2627)**
 
-其他推荐：[🦇钉钉消息防撤回补丁下载](https://github.com/flydoos/FeiShuRevokeMsgPatcher) | [🔖查看作者更多作品](https://github.com/flydoos)
+其他推荐：[🦇钉钉消息防撤回补丁下载](https://github.com/flydoos/DingTalkRevokeMsgPatcher) | [🔖查看作者更多作品](https://github.com/flydoos)
 
 ## 📷截图
 
