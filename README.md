@@ -39,7 +39,7 @@
 
 **下载地址：[⚡️最新版飞书消息防撤回补丁下载](https://github.com/flydoos/FeiShuRevokeMsgPatcher/releases/latest) | [📖飞书安装包历史版本下载](https://www.wuleba.com/?p=2627)**
 
-其他推荐：[🦇钉钉消息防撤回补丁下载](https://github.com/flydoos/DingTalkRevokeMsgPatcher) | [🔖查看作者更多作品](https://github.com/flydoos)
+其他推荐：[🦇钉钉消息防撤回补丁](https://github.com/flydoos/DingTalkRevokeMsgPatcher) | [🔖查看作者更多作品](https://github.com/flydoos)
 
 ## 📷截图
 
@@ -58,7 +58,7 @@
 
 4. 选择飞书的安装路径。正常情况下本程序会自动获取安装路径，特殊情况下，需要手动选择路径。
 
-5. 点击安装补丁。界面可能会出现一段时间的无响应，请耐心等待。**由于修改了飞书文件，杀毒软件可能会弹出警告，放行即可。**
+5. 点击安装补丁。界面可能会出现一段时间的无响应，请耐心等待。**由于修改了飞书文件，杀毒软件可能会弹出警告，请放行且添加程序目录到信任白名单。**
 
 注意：飞书更新之后要重新安装补丁！
 
@@ -79,6 +79,10 @@ QQ群：223541319 （催更请进群）
 官网：https://www.wuleba.com （2021年国庆的时候网站恢复了，大家去支持下）
 
 对 "FeiShuRevokeMsgPatcher" 有任何使用上或者技术上的疑问，欢迎随时联系作者。
+
+## 🧧投喂
+
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/WinASAR/Images/Donate.png)
 
 ## 📄开源协议
 
