@@ -14,7 +14,7 @@
 
 # 👀飞书消息防撤回补丁（飞书消息防撤回插件）
 
-飞书消息防撤回补丁PC版（别名：飞书电脑版防撤回插件，也叫：飞书防撤回补丁、飞书消息防撤回补丁）由“牛A与牛C之间”开发制作，本程序适用于 Windows 下 PC 版飞书的消息防撤回，支持飞书7.13.8及以上版本（不支持旧版本），**目前支持最新版飞书**。
+飞书消息防撤回补丁PC版（别名：飞书电脑版防撤回插件，也叫：飞书防撤回补丁、飞书消息防撤回补丁）由“牛A与牛C之间”开发制作，本程序适用于 Windows 下 PC 版飞书的消息防撤回，也支持消息永不已读，支持飞书7.13.8及以上版本（不支持旧版本），**目前支持最新版飞书**。
 
 ## 🖥️主要功能
 
@@ -22,9 +22,11 @@
 
 02. 支持撤回消息提醒
 
-03. 支持屏蔽飞书升级（试验性功能）
+03. 支持消息永不已读（仅支持飞书7.15.9及以上版本）
 
-04. 支持在线更新检测
+04. 支持屏蔽飞书升级（试验性功能）
+
+05. 支持在线更新检测
 
 ## 🗓️可用范围
 
@@ -44,7 +46,7 @@
 
 ## 📷截图
 
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FeiShuRevokeMsgPatcher/Images/Screenshot-1.1.2.png)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FeiShuRevokeMsgPatcher/Images/Screenshot-2.0.0.png)
 
 ## 🔨使用方法
 
@@ -64,6 +66,8 @@
 注意：飞书更新之后要重新安装补丁！
 
 ![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FeiShuRevokeMsgPatcher/Images/Revoke.jpg)
+
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FeiShuRevokeMsgPatcher/Images/MessageUnRead.png)
 
 ## ❓常见问题
 
