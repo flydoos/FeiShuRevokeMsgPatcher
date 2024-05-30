@@ -38,6 +38,7 @@
 | 7.14 | 7.14.4 |
 | 7.15 | 7.15.5、7.15.9 |
 | 7.18 | 7.18.7 |
+| 7.19 | 7.19.2、7.19.4 |
 
 ## 🔗下载地址
 
@@ -47,7 +48,7 @@
 
 ## 📷截图
 
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FeiShuRevokeMsgPatcher/Images/Screenshot-2.1.0.png)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FeiShuRevokeMsgPatcher/Images/Screenshot-2.2.0.png)
 
 ## 🔨使用方法
 
