@@ -20,13 +20,15 @@
 
 01. 支持文字消息防撤回
 
-02. 支持撤回消息提醒
+02. 支持个人消息防撤回，以及群主或管理员消息防撤回
 
-03. 支持消息永不已读（仅支持飞书7.15.9及以上版本）
+03. 支持撤回消息提醒
 
-04. 支持屏蔽飞书升级（试验性功能）
+04. 支持消息永不已读（仅支持飞书7.15.9及以上版本）
 
-05. 支持在线更新检测
+05. 支持屏蔽飞书升级（试验性功能）
+
+06. 支持在线更新检测
 
 ## 🗓️可用范围
 
@@ -52,7 +54,7 @@
 
 ## 📷截图
 
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FeiShuRevokeMsgPatcher/Images/Screenshot-2.4.0.png)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FeiShuRevokeMsgPatcher/Images/Screenshot-2.4.2.png)
 
 ## 🔨使用方法
 
