@@ -67,7 +67,7 @@
 | 7.50 | 7.50.9 |
 | 7.51 | 7.51.4、7.51.6 |
 | 7.52 | 7.52.3 |
-| 7.54 | 7.54.4 [【飞书安装包历史版本下载】](https://www.wuleba.com/?p=2627) |
+| 7.54 | 7.54.4、7.54.8 [【飞书安装包历史版本下载】](https://www.wuleba.com/?p=2627) |
 
 ## 🔗下载地址
 
@@ -77,7 +77,7 @@
 
 ## 📷截图
 
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FeiShuRevokeMsgPatcher/Images/Screenshot-2.9.3.png)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FeiShuRevokeMsgPatcher/Images/Screenshot-2.9.4.png)
 
 ## 🔨使用方法
 
