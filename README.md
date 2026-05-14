@@ -75,7 +75,8 @@
 | 7.59 | 7.59.3 |
 | 7.63 | 7.63.7 |
 | 7.64 | 7.64.3、7.64.6 |
-| 7.66 | 7.66.2、7.66.5 [【飞书安装包历史版本下载】](https://www.wuleba.com/?p=2627) |
+| 7.66 | 7.66.2、7.66.5 |
+| 7.68 | 7.68.6、**新增AI自动打补丁功能，理论上支持飞书 7.68.x 以及后续小版本**（大版本估计还是要手动更新） [【飞书安装包历史版本下载】](https://www.wuleba.com/?p=2627) |
 
 ## 🔗下载地址
 
@@ -85,7 +86,7 @@
 
 ## 📷截图
 
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FeiShuRevokeMsgPatcher/Images/Screenshot-3.1.4.png)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FeiShuRevokeMsgPatcher/Images/Screenshot-3.2.0.png)
 
 ## 🔨使用方法
 
