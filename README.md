@@ -79,7 +79,8 @@
 | 7.68 | 7.68.6 |
 | 7.72 | 7.72.8 |
 | 7.73 | 7.73.9 |
-| 8.1 | 8.1.7 [【飞书安装包历史版本下载】](https://www.wuleba.com/?p=2627) |
+| 8.1 | 8.1.7 |
+| 8.3 | 8.3.3 [【飞书安装包历史版本下载】](https://www.wuleba.com/?p=2627) |
 
 ## 🔗下载地址
 
@@ -89,7 +90,7 @@
 
 ## 📷截图
 
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FeiShuRevokeMsgPatcher/Images/Screenshot-3.3.0.png)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FeiShuRevokeMsgPatcher/Images/Screenshot-3.3.1.png)
 
 ## 🔨使用方法
 
